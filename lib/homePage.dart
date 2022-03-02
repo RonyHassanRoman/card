@@ -41,7 +41,7 @@ class MyHome extends StatelessWidget {
                   height: 20,
                   width: 150,
                   child: Divider(
-                    color: Colors.white,
+                    color: Colors.black,
                   ),
                 ),
                 Card(
