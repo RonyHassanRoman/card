@@ -1,6 +1,6 @@
 # card_app
 
-A new Flutter project.
+This is a card. And this is little about me.
 
 ## Getting Started
 
